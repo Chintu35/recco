@@ -1,0 +1,134 @@
+{
+  "products": [
+    { 
+      "id": 1, 
+      "name": "Chicken Breast Fillets Boneless Invivid", 
+      "brand": "Invivid", 
+      "price": 10.89, 
+      "image": "https://res.cloudinary.com/dl6e3c8xr/image/upload/v1700839003/Apple_Green_Smith_1_xyvq4h.png", 
+      "quantity": 6, 
+      "status": {
+        "text": "",
+        "bgColor": "",
+        "ClosebgColor": ""
+      }
+    },
+    { 
+      "id": 2, 
+      "name": "Fresh Organic Apples (1 lb)", 
+      "brand": "Organic Farms", 
+      "price": 2.99, 
+      "image": "https://res.cloudinary.com/dl6e3c8xr/image/upload/v1700839003/Apple_Green_Smith_1_xyvq4h.png", 
+      "quantity": 8, 
+      "status": {
+        "text": "",
+        "DonebgColor": "",
+        "ClosebgColor": ""
+      }
+    },
+    { 
+      "id": 3, 
+      "name": "Premium Coffee Beans (12 oz)", 
+      "brand": "Coffee Lovers", 
+      "price": 14.99, 
+      "image": "https://res.cloudinary.com/dl6e3c8xr/image/upload/v1700839003/Apple_Green_Smith_1_xyvq4h.png", 
+      "quantity": 5, 
+      "status": {
+        "text": "",
+        "DonebgColor": "",
+        "ClosebgColor": ""
+      }
+    },
+    { 
+      "id": 4, 
+      "name": "Crispy Potato Chips (Family Size)", 
+      "brand": "Snack Haven", 
+      "price": 3.49, 
+      "image": "https://res.cloudinary.com/dl6e3c8xr/image/upload/v1700839003/Apple_Green_Smith_1_xyvq4h.png", 
+      "quantity": 9, 
+      "status": {
+        "text": "",
+        "DonebgColor": "",
+        "ClosebgColor": ""
+      }
+    },
+    { 
+      "id": 5, 
+      "name": "Handcrafted Soap Set (3-pack)", 
+      "brand": "Artisan Soaps", 
+      "price": 19.99, 
+      "image": "https://res.cloudinary.com/dl6e3c8xr/image/upload/v1700839003/Apple_Green_Smith_1_xyvq4h.png", 
+      "quantity": 5, 
+      "status": {
+        "text": "",
+        "DonebgColor": "",
+        "ClosebgColor": ""
+      }
+    },
+    { 
+      "id": 6, 
+      "name": "Gourmet Popcorn Sampler", 
+      "brand": "Popcorn Delight", 
+      "price": 8.99, 
+      "image": "https://res.cloudinary.com/dl6e3c8xr/image/upload/v1700839003/Apple_Green_Smith_1_xyvq4h.png", 
+      "quantity": 4, 
+      "status": {
+        "text": "",
+        "DonebgColor": "",
+        "ClosebgColor": ""
+      }
+    },
+    { 
+      "id": 7, 
+      "name": "Organic Red Wine (750ml)", 
+      "brand": "Vineyard Bliss", 
+      "price": 24.99, 
+      "image": "https://res.cloudinary.com/dl6e3c8xr/image/upload/v1700839003/Apple_Green_Smith_1_xyvq4h.png", 
+      "quantity": 7, 
+      "status": {
+        "text": "",
+        "DonebgColor": "",
+        "ClosebgColor": ""
+      }
+    },
+    { 
+      "id": 8, 
+      "name": "Artisanal Stairs Cake", 
+      "brand": "Sweet Creations", 
+      "price": 29.99, 
+      "image": "https://res.cloudinary.com/dl6e3c8xr/image/upload/v1700839003/Apple_Green_Smith_1_xyvq4h.png", 
+      "quantity": 9, 
+      "status": {
+        "text": "",
+        "DonebgColor": "",
+        "ClosebgColor": ""
+      }
+    },
+    { 
+      "id": 9, 
+      "name": "Exotic Fruit Bowl", 
+      "brand": "Tropical Harvest", 
+      "price": 12.49, 
+      "image": "https://res.cloudinary.com/dl6e3c8xr/image/upload/v1700839003/Apple_Green_Smith_1_xyvq4h.png", 
+      "quantity": 6, 
+      "status": {
+        "text": "",
+        "DonebgColor": "",
+        "ClosebgColor": ""
+      }
+    },
+    { 
+      "id": 10, 
+      "name": "Hormel Black Label Bacon (1 lb)", 
+      "brand": "Hormel", 
+      "price": 7.99, 
+      "image": "https://res.cloudinary.com/dl6e3c8xr/image/upload/v1700839003/Apple_Green_Smith_1_xyvq4h.png", 
+      "quantity": 7, 
+      "status": {
+        "text": "",
+        "DonebgColor": "",
+        "ClosebgColor": ""
+      }
+    }
+  ]
+}

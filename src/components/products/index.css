@@ -1,0 +1,10 @@
+.search{
+    border: none;
+    height: 35px;
+    width: 300px;
+}
+.print-icon{
+    margin-left: 55px;
+    padding-top: 35px;
+    font-size: 34px; 
+}
