@@ -65,7 +65,7 @@ const ProductItemDetails=props=>{
             <Header>{name}</Header>
             <EditPara>{brand}</EditPara>
             <EditItemsContainer>
-            <img src={image}  alt='item-image'/>
+            <img src={image}  alt='itemimage'/>
             <EditPara>price{price}</EditPara>
             <EditPara>Quantity{quantity}</EditPara>
             <EditPara>Toatal{price*quantity}</EditPara>
